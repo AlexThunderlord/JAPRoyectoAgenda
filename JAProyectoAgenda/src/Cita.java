@@ -31,6 +31,7 @@ public class Cita {
         
         return st.toString();
     }
+    
 
     public int getHora() {
         return hora;
